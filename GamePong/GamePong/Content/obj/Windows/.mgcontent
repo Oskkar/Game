@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/button.png</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/przycisk.png</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/ballSmall.png</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/bok.png</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/paddle.png</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/przod.png</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/paddle2.png</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/ball4.png</File>
+    <File>C:/Users/Oskier/source/repos/GamePong/GamePong/Content/Controls/ball.png</File>
+  </SourceFiles>
+</SourceFileCollection>
