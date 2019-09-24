@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Objects/Ball.png</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Objects/Block.png</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Objects/Button.png</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Objects/Paddle.png</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Backgrounds/GameStateBackground.png</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Objects/LifePowerUP.png</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Objects/PaddleSpeedPowerUP.png</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Objects/BallSpeedPowerUP.png</File>
+    <File>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Backgrounds/menu.png</File>
+  </SourceFiles>
+</SourceFileCollection>

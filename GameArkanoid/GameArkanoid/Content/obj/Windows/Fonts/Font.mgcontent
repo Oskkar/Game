@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/Fonts/Font.spritefont</SourceFile>
+  <SourceTime>2016-03-30T08:36:08+02:00</SourceTime>
+  <DestFile>C:/Users/Oskier/source/repos/GameArkanoid/GameArkanoid/Content/bin/Windows/Fonts/Font.xnb</DestFile>
+  <DestTime>2018-12-12T00:05:47.1012395+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
