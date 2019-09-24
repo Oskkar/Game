@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Oskier/Desktop/RiverRaid2/RiverRaid2/Content/label.spritefont</SourceFile>
+  <SourceTime>2018-12-17T22:46:51.7642821+01:00</SourceTime>
+  <DestFile>C:/Users/Oskier/Desktop/RiverRaid2/RiverRaid2/Content/bin/Android/label.xnb</DestFile>
+  <DestTime>2019-01-15T11:07:55.1815627+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
